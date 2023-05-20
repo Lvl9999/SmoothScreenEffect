@@ -1,3 +1,6 @@
+--------------------------------------------
+-- [Made by ThroughTheFireAndFlames#9925] --
+--------------------------------------------
 getgenv().ScreenFollowSmoothness = 0.35 -- Dont touch
 getgenv().ScreenShakeSmoothness = 0.1 -- Dont touch
 getgenv().ScreenDragSmoothness = 0.05 -- Dont touch
